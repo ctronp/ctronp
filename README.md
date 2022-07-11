@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello everyone
 
-<!--
-**ctronp/ctronp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤔 Have you ever wondered why we program in high level? it is because it is fast, but only for programming, once in production it will consume resources and pollute during the process🌱.
 
-Here are some ideas to get you started:
+For that and much more I faithfully believe that compiled languages will one day overcome interpreted languages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nowadays I find myself developing in Rust, Go, C and C++. While for frontend I usually use SSG if possible, otherwise SSR.
+
+### ⚡ my ideals:
+
+- Explicit > Implicit (Stolen phrase from python).
+- AOT > JIT > Interpreted
+- Open Source > Privative
+- TypeScript > JavaScript
+- WASM should be able to access the DOM
+- Containers > Virtual Machines
+- Linux <3
+- btw I used to use arch
