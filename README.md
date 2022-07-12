@@ -8,10 +8,11 @@ Nowadays I find myself developing in Rust, Go, C and C++. While for frontend I u
 
 ### ⚡ my ideals:
 
-- Explicit > Implicit (Stolen phrase from python).
+- Explicit > Implicit (Phrase Stolen from python).
 - AOT > JIT > Interpreted
 - Open Source > Privative
 - TypeScript > JavaScript
+- Static Typing > Dynamic Typing
 - WASM should be able to access the DOM
 - Containers > Virtual Machines
 - Linux <3
