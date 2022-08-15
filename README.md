@@ -16,4 +16,4 @@ Nowadays I find myself developing in Rust, Go, C and C++. While for frontend I u
 - WASM should be able to access the DOM
 - Containers > Virtual Machines
 - Linux <3
-- btw I used to use arch
+- btw I used to use arch linux
