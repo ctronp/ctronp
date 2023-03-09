@@ -1,18 +1,19 @@
-### Hello Everyone
+### Hey there, everyone! :wave:
 
-🤔 Have you ever wondered why we program in high level? it is because it is fast, but only for programming, once in production it will consume resources and pollute during the process🌱.
+Have you ever wondered why we use high-level programming languages? :thinking: They may be fast during development, but once in production, they consume resources and pollute the environment. :earth_americas:
 
-For that and much more I faithfully believe that compiled languages will one day overcome interpreted languages.
+That's why I strongly believe that compiled languages will eventually surpass interpreted ones. :muscle:
 
-Nowadays I find myself developing in C, C++ and Rust. While for Frontend and Backend I am learning Vue and Express.
+Currently, I'm working with `C`, `C++`, and `Rust` :computer:, and for frontend and backend, I'm learning `Vue` and `Express`. :globe_with_meridians:
 
-### ⚡ My Ideals:
+### My principles are:
 
-- Explicit > Implicit (Phrase Stolen from python).
-- AOT > JIT > Interpreted
-- Open Source > Privative
-- Static Typing > Dynamic Typing
-- WASM should be able to access the DOM
-- Containers > Virtual Machines
-- Linux <3
-- btw I used to use arch linux
+- Explicit > Implicit (stolen phrase from Python) 
+- Ahead-of-Time (AOT) Compilation > Just-In-Time (JIT) Compilation > Interpreted languages 
+- Open-source > Proprietary 
+- Static typing > Dynamic typing 
+- WebAssembly (WASM) should be able to access the Document Object Model (DOM) 
+- Containers > Virtual Machines 
+- Linux <3 
+
+By the way, I used to be an Arch Linux user... :sunglasses:
