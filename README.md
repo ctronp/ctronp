@@ -1,10 +1,10 @@
 ### Hey there, everyone! :wave:
 
-Ever wondered why we use high-level programming languages? :thinking: They may be fast during development, but in production, they consume resources and have an environmental impact. :earth_americas:
+Ever wondered why we use high-level programming languages? :thinking: Beyond rapid development, there's a crucial aspect to consider: security and stability. Compiled languages with static typing often offer enhanced robustness and fewer runtime errors compared to their interpreted and dynamically-typed counterparts. :lock:
 
-That's why I'm a firm believer that compiled languages will eventually surpass interpreted ones. :muscle:
+That's why I'm a firm believer that compiled languages will eventually become the primary choice for many developers seeking reliability. :muscle:
 
-At the moment, I'm working as a full stack developer at [Tuxpan](https://www.tuxpan.com/) :office: and honing my skills in `C`, `C++`, and `Rust` :computer:. For frontend, I'm using `Angular` and for backend, I'm working with `Java`. :globe_with_meridians:
+At the moment, I'm working as a backend developer at [Tuxpan](https://www.tuxpan.com/) :office: and honing my skills in Java and SpringBoot for backend development. :globe_with_meridians:
 
 ### My guiding principles are:
 
@@ -15,5 +15,3 @@ At the moment, I'm working as a full stack developer at [Tuxpan](https://www.tux
 - WebAssembly (WASM) should have access to the Document Object Model (DOM) 
 - Containers > Virtual Machines 
 - Linux <3 
-
-Fun fact: I used to be an Arch Linux user... :sunglasses:
