@@ -1,17 +1,19 @@
 ### Hey there, everyone! 👋
 
-Have you ever wondered why we use high-level programming languages? 🤔 Beyond rapid development, there's an important aspect to consider: security and stability. Compiled languages with static typing often provide enhanced robustness and fewer runtime errors compared to their interpreted and dynamically-typed counterparts. 🔒
+Have you ever stopped to think about why we gravitate toward certain tools or technologies? 🤔 For me, it boils down to one key concept: **balance**. The balance between speed and stability, simplicity and control, scalability and security.
 
-While I believe compiled languages can offer benefits in terms of reliability, it's all about choosing the right tool for the job and balancing performance with other factors. :muscle:
+I’m passionate about building reliable and efficient software solutions, whether it’s through robust static typing, scalable cloud architectures, or leveraging open-source technologies. 🔧🔒
 
-At the moment, I'm working as a backend developer at [Flow](https://www.flow.cl/) 🏢 and honing my skills in Java Spring Boot, PHP, and AWS for backend development. 🌐
+Currently, I work as a backend developer at [Flow](https://www.flow.cl/) 🏢, specializing in **PHP**, **Java Spring Boot**, and **AWS**. My day-to-day involves crafting solutions for a fintech platform with scalability, security, and high performance in mind. 🚀🌐
 
-### My guiding principles are:
+### My guiding principles:
 
-- Explicit > Implicit (inspired by Python)
-- Ahead-of-Time (AOT) Compilation > Just-In-Time (JIT) Compilation > Interpreted languages
-- Open-source > Proprietary
-- Static typing > Dynamic typing
-- WebAssembly (WASM) should have access to the Document Object Model (DOM)
-- Containers > Virtual Machines
-- Linux <3
+- **Explicit > Implicit**: Clarity drives maintainability. Inspired by Python’s philosophy. 🐍
+- **Static Typing > Dynamic Typing**: Catching errors early means fewer headaches later. 🔍
+- **Containers > Virtual Machines**: Efficiency and portability in one package. 🐳
+- **Linux <3**: The backbone of modern computing. 🐧
+- **Open-source > Proprietary**: Collaboration fuels innovation. 🤝
+- **Right Tool for the Job**: Pragmatism over dogma. 🛠️
+- **WebAssembly (WASM) should dominate the web**: Imagine WASM with full access to the DOM. 🌐
+
+I'm driven by curiosity, guided by principles, and always ready to explore the next challenge. Let’s build something awesome together! 🚀
